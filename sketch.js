@@ -38,7 +38,7 @@ function setup(){
 
 function draw() {
   background(0);
-  path.velocityY = 6;
+  path.velocityY = 14;
   
   // boy moviéndose en el eje X con el mouse
   boy.x = World.mouseX;
