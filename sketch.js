@@ -17,7 +17,7 @@ function setup(){
  //agregar imagen de path
  path.addImage("road", pathImg);
  //Hacer que la pista sea un fondo en movimiento al darle velocidad Y.
- path.velocityY = 5;
+ path.velocityY = 14;
  path.scale=1.2;
 
  //crear sprite de boy (niño)
